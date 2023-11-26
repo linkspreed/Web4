@@ -1,8 +1,8 @@
-# <img align="left" alt="Linkspreed General" width="100px" src="https://laas.linkspreed.com/assets/img/port-img-31/logo.png" draggable="false" /> ([Click to visit LS 🚀](https://laas.ml/))([Log 🚀](https://github.com/linkspreed/LaaS/blob/main/log.md))
+# Web4 - ([Click to visit the docs 🚀](https://documents.linkspreed.com/files/p/Web4_Presentation_Linkspreed.pdf))([Log 🚀](https://github.com/linkspreed/Web4/blob/main/log.md))
 
 Here you will find all the important information about LaaS (Linkspreed-as-a-Service) 🧡 as a global collection of SaaS tools, designed to help startups and developers as well as individual users to shape the future. 
 
-## **[LOG 🧡](https://github.com/linkspreed/LaaS/blob/main/log.md)** **Check out the full Log of LaaS solutions :)**
+## **[LOG 🧡](https://github.com/linkspreed/Web4/blob/main/log.md)** **Check out the full Log of LaaS solutions :)**
 
 <div align="center" width="50">
 
